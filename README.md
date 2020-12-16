@@ -11,6 +11,7 @@
 1. https://github.com/balrom1981/Java_1.1_2/issues/1
 1. https://github.com/balrom1981/java_1.1_2/issues/2
 1. https://github.com/balrom1981/java_1.1_2/issues/3
+1. https://github.com/balrom1981/Java_1.1_2/issues/4
 
 **Процесс тестирования:**
 1. Объект тестирования:
